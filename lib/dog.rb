@@ -6,7 +6,9 @@ class Dog
   end
   
   #setter
-  
+  def name 
+    @name
+  end
   
   #bark 
   
